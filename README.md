@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IshPen
-- 👀 I’m interested in deep learning and practical applications.
-- 🌱 I’m currently learning Neural Networking with images.
-- 💞️ Changing Virtual Photoepileptic Media Detection 
+- 👀 I’m interested in the intersections between public policy with software design.
+- 🌱 I’m currently learning working on accessible applications for low-resourced debate teams
+- 💞️ Changing the field of Photoepileptic Media Detection 
 - 📫 Contact me at pengames2020@gmail.com
 
 <!---
